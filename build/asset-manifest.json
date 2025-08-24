@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Math-Programs/static/css/main.06dbbd1f.css",
+    "main.js": "/React-Math-Programs/static/js/main.13ee7204.js",
+    "index.html": "/React-Math-Programs/index.html",
+    "main.06dbbd1f.css.map": "/React-Math-Programs/static/css/main.06dbbd1f.css.map",
+    "main.13ee7204.js.map": "/React-Math-Programs/static/js/main.13ee7204.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06dbbd1f.css",
+    "static/js/main.13ee7204.js"
+  ]
+}
